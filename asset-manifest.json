@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/aliens-rolodex/static/css/main.3eafde0e.css",
+    "main.css": "/aliens-rolodex/static/css/main.b856432c.css",
     "main.js": "/aliens-rolodex/static/js/main.c92faa03.js",
     "index.html": "/aliens-rolodex/index.html",
-    "main.3eafde0e.css.map": "/aliens-rolodex/static/css/main.3eafde0e.css.map",
+    "main.b856432c.css.map": "/aliens-rolodex/static/css/main.b856432c.css.map",
     "main.c92faa03.js.map": "/aliens-rolodex/static/js/main.c92faa03.js.map"
   },
   "entrypoints": [
-    "static/css/main.3eafde0e.css",
+    "static/css/main.b856432c.css",
     "static/js/main.c92faa03.js"
   ]
 }
