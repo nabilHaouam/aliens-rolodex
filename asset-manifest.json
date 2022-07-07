@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aliens-rolodex/static/css/main.0e6a4c91.css",
+    "main.js": "/aliens-rolodex/static/js/main.c92faa03.js",
+    "index.html": "/aliens-rolodex/index.html",
+    "main.0e6a4c91.css.map": "/aliens-rolodex/static/css/main.0e6a4c91.css.map",
+    "main.c92faa03.js.map": "/aliens-rolodex/static/js/main.c92faa03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e6a4c91.css",
+    "static/js/main.c92faa03.js"
+  ]
+}
